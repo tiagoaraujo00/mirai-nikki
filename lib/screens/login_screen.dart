@@ -7,7 +7,7 @@ class Login extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.amberAccent,
+        title: Text('Oi texto texto meu teste'),
       ),
     );
   }
